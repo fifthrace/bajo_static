@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="robots" content="noindex">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bajo.io</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="assets/js/script.js" defer></script>
+    <link rel="icon" href="assets/img/favicon.png" type="image/png">
+</head>
+<body>
+    <nav>
+        <a href="./index.html">Home</a> | <a href="pages/gallery.html">Gallery</a>
+    </nav>
+    
+    <div id="main-wrapper"> <!-- Added this wrapper -->
+        <header>
+            <img src="assets/img/underconstruction.gif" alt="Under Construction" width="150">
+            <h1>Welcome to bajo.io</h1>
+            <marquee>Welcome to a homepage! Enjoy your stay!</marquee>
+        </header>
+        <main>
+            <h2>Magic 8-Ball</h2>
+            <p>Ask the Magic 8-Ball a question and receive its wisdom!</p>
+            <input type="text" id="userQuestion" placeholder="Ask your question...">
+            <button onclick="getMagicAnswer()">Ask</button>
+            <p id="magicAnswer"></p>
+        </main>
+    </div> <!-- Close the wrapper -->
+    <footer>
+        <p>Thanks for visiting! Last updated in 1997.</p>
+    </footer>
+</body>
+</html>
