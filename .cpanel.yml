@@ -1,0 +1,7 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/bajoio/public_html/
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp robots.txt $DEPLOYPATH
+    - /bin/cp assets -R $DEPLOYPATH
+    - /bin/cp pages -R $DEPLOYPATH
