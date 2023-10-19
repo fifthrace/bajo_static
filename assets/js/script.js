@@ -27,23 +27,21 @@ function getMagicAnswer() {
     document.getElementById("magicAnswer").innerText = answer;
 }
 
-function revealImages() {
-    const imageContainers = document.querySelectorAll('.image-container');
-  
-    // Loop through each image container and animate it
-    imageContainers.forEach((container, index) => {
-      const image = container.querySelector('img');
-  
-      // Use GSAP to animate the opacity property
-      gsap.to(image, {
-        opacity: 1,
-        duration: 2, // 2 seconds
-        delay: index * 2, // Delay each image by 2 seconds
-        ease: 'power2.inOut', // Easing function
-      });
+
+fetch('/assets/img/gallery/')
+.then(response => response.text())
+.then(data => {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(data, 'text/html');
+    const links = Array.from(doc.querySelectorAll('a'));
+    
+    const imageLinks = links.filter(link => link.href.match(/\.(jpg|jpeg|png|gif)$/i));
+    
+    const galleryContainer = document.getElementById('galleryContainer');
+    
+    imageLinks.forEach(link => {
+        const img = document.createElement('img');
+        img.src = `/assets/img/gallery/${link.textContent}`;
+        galleryContainer.appendChild(img);
     });
-  }
-  
-  // Call the revealImages function when the DOM is loaded
-  document.addEventListener('DOMContentLoaded', revealImages);
-  
+});

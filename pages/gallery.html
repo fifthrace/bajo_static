@@ -18,9 +18,31 @@
         <img src="../assets/img/underconstruction.gif" alt="Under Construction" width="150">
         <h1>Welcome to bajo.io Gallery</h1>
         <marquee>Enjoy these nostalgic images!</marquee>
-    </header>
+        <style>
+#galleryContainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); /* Dynamic columns of at least 400px wide */
+    gap: 16px;
+}
 
+#galleryContainer img {
+    width: 100%; /* Image takes up the full width of its grid cell */
+    height: auto; /* Maintains the image's aspect ratio */
+    object-fit: cover; /* Ensures the image covers the entire content box */
+    display: block;
+    margin: 0 auto;
+    border: 3px solid #ff00cc;
+    border-radius: 15px;
+}
+
+
+    </style>
+
+    </header>
     <main>
+        <div id="galleryContainer"></div>
+<!--
+
         <div class="image-grid">
             <div class="outer-border-container">
                 <div class="border-container">
@@ -43,6 +65,7 @@
                 </div>
             </div>
         </div>
+-->
     </main>
     
     
