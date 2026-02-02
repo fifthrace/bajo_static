@@ -1,0 +1,386 @@
+[
+  {
+    "id": "852ed0c89942",
+    "title": "Vector Array",
+    "width": 3,
+    "height": 3,
+    "difficulty": "medium",
+    "steps": 5
+  },
+  {
+    "id": "403de4c6948e",
+    "title": "Spectral Circuit",
+    "width": 5,
+    "height": 5,
+    "difficulty": "medium",
+    "steps": 12
+  },
+  {
+    "id": "853ee36b9339",
+    "title": "Atomic Core",
+    "width": 3,
+    "height": 3,
+    "difficulty": "medium",
+    "steps": 4
+  },
+  {
+    "id": "7114cc38784f",
+    "title": "Flux Node",
+    "width": 15,
+    "height": 15,
+    "difficulty": "medium",
+    "steps": 139
+  },
+  {
+    "id": "e272c6a45c79",
+    "title": "Inverse Force",
+    "width": 10,
+    "height": 10,
+    "difficulty": "medium",
+    "steps": 65
+  },
+  {
+    "id": "df81929a156c",
+    "title": "Inert Mass",
+    "width": 15,
+    "height": 15,
+    "difficulty": "medium",
+    "steps": 123
+  },
+  {
+    "id": "bfcfaeef9252",
+    "title": "Linear Array",
+    "width": 15,
+    "height": 15,
+    "difficulty": "medium",
+    "steps": 145
+  },
+  {
+    "id": "5cb9df42f9a7",
+    "title": "Quantum Field",
+    "width": 10,
+    "height": 10,
+    "difficulty": "medium",
+    "steps": 60
+  },
+  {
+    "id": "02858fd35bb2",
+    "title": "Vortex Fabric",
+    "width": 3,
+    "height": 3,
+    "difficulty": "medium",
+    "steps": 6
+  },
+  {
+    "id": "4fc04d0e8002",
+    "title": "Scalar Vertex",
+    "width": 15,
+    "height": 15,
+    "difficulty": "medium",
+    "steps": 155
+  },
+  {
+    "id": "a82b433dddee",
+    "title": "Vector Mass",
+    "width": 10,
+    "height": 10,
+    "difficulty": "medium",
+    "steps": 64
+  },
+  {
+    "id": "486fff14b84f",
+    "title": "Scalar Mass",
+    "width": 10,
+    "height": 10,
+    "difficulty": "medium",
+    "steps": 58
+  },
+  {
+    "id": "53da6057b466",
+    "title": "Axial Pulse",
+    "width": 5,
+    "height": 5,
+    "difficulty": "medium",
+    "steps": 16
+  },
+  {
+    "id": "22c94fbeab29",
+    "title": "Focal Edge",
+    "width": 5,
+    "height": 5,
+    "difficulty": "medium",
+    "steps": 13
+  },
+  {
+    "id": "45272b5b869d",
+    "title": "Isotope Matrix",
+    "width": 3,
+    "height": 3,
+    "difficulty": "medium",
+    "steps": 4
+  },
+  {
+    "id": "88409738fbb2",
+    "title": "Atomic Entropy",
+    "width": 3,
+    "height": 3,
+    "difficulty": "medium",
+    "steps": 5
+  },
+  {
+    "id": "076e995dfbc6",
+    "title": "Spectral Horizon",
+    "width": 5,
+    "height": 5,
+    "difficulty": "medium",
+    "steps": 16
+  },
+  {
+    "id": "10d6d3ac2796",
+    "title": "Primal Nexus",
+    "width": 3,
+    "height": 3,
+    "difficulty": "medium",
+    "steps": 4
+  },
+  {
+    "id": "81b03866b6fa",
+    "title": "Linear Shell",
+    "width": 15,
+    "height": 15,
+    "difficulty": "medium",
+    "steps": 128
+  },
+  {
+    "id": "db02c0d91a5e",
+    "title": "Focal Node",
+    "width": 15,
+    "height": 15,
+    "difficulty": "medium",
+    "steps": 129
+  },
+  {
+    "id": "ea873bf26427",
+    "title": "Tidal Nexus",
+    "width": 10,
+    "height": 10,
+    "difficulty": "medium",
+    "steps": 55
+  },
+  {
+    "id": "0ad3a694ecb5",
+    "title": "Tidal Strata",
+    "width": 5,
+    "height": 5,
+    "difficulty": "medium",
+    "steps": 13
+  },
+  {
+    "id": "96fee75231f4",
+    "title": "Inverse Mass",
+    "width": 10,
+    "height": 10,
+    "difficulty": "medium",
+    "steps": 55
+  },
+  {
+    "id": "681d8b6bdfa1",
+    "title": "Binary Force",
+    "width": 10,
+    "height": 10,
+    "difficulty": "medium",
+    "steps": 64
+  },
+  {
+    "id": "8c863678a6ec",
+    "title": "Flux Matrix",
+    "width": 5,
+    "height": 5,
+    "difficulty": "medium",
+    "steps": 13
+  },
+  {
+    "id": "64e8457d7c8a",
+    "title": "Inverse Array",
+    "width": 15,
+    "height": 15,
+    "difficulty": "medium",
+    "steps": 125
+  },
+  {
+    "id": "0322bc428bfb",
+    "title": "Vector Field",
+    "width": 5,
+    "height": 5,
+    "difficulty": "medium",
+    "steps": 10
+  },
+  {
+    "id": "b5a09f9f2f6f",
+    "title": "Scalar Point",
+    "width": 15,
+    "height": 15,
+    "difficulty": "medium",
+    "steps": 136
+  },
+  {
+    "id": "8e374a198c60",
+    "title": "Flux Isotope",
+    "width": 10,
+    "height": 10,
+    "difficulty": "medium",
+    "steps": 46
+  },
+  {
+    "id": "2c9aeb68ceae",
+    "title": "Inverse Nexus",
+    "width": 10,
+    "height": 10,
+    "difficulty": "medium",
+    "steps": 55
+  },
+  {
+    "id": "4add925264e6",
+    "title": "Inert Vertex",
+    "width": 15,
+    "height": 15,
+    "difficulty": "medium",
+    "steps": 120
+  },
+  {
+    "id": "7228f4adbedc",
+    "title": "Nodal Point",
+    "width": 15,
+    "height": 15,
+    "difficulty": "medium",
+    "steps": 139
+  },
+  {
+    "id": "6e6c314cb04f",
+    "title": "Primal Mass",
+    "width": 10,
+    "height": 10,
+    "difficulty": "medium",
+    "steps": 55
+  },
+  {
+    "id": "a23b7a6482af",
+    "title": "Primal Edge",
+    "width": 5,
+    "height": 5,
+    "difficulty": "medium",
+    "steps": 14
+  },
+  {
+    "id": "a52c069f0ba6",
+    "title": "Scalar Field",
+    "width": 3,
+    "height": 3,
+    "difficulty": "medium",
+    "steps": 5
+  },
+  {
+    "id": "afe14c35068e",
+    "title": "Vector Nexus",
+    "width": 5,
+    "height": 5,
+    "difficulty": "medium",
+    "steps": 14
+  },
+  {
+    "id": "1e4f7d9e8759",
+    "title": "Vortex Mass",
+    "width": 5,
+    "height": 5,
+    "difficulty": "medium",
+    "steps": 14
+  },
+  {
+    "id": "9782f0635802",
+    "title": "Radial Force",
+    "width": 10,
+    "height": 10,
+    "difficulty": "medium",
+    "steps": 54
+  },
+  {
+    "id": "7bd85e337017",
+    "title": "Static Field",
+    "width": 15,
+    "height": 15,
+    "difficulty": "medium",
+    "steps": 142
+  },
+  {
+    "id": "45268846256f",
+    "title": "Linear Core",
+    "width": 10,
+    "height": 10,
+    "difficulty": "medium",
+    "steps": 54
+  },
+  {
+    "id": "342450494a90",
+    "title": "Inverse Pulse",
+    "width": 10,
+    "height": 10,
+    "difficulty": "medium",
+    "steps": 50
+  },
+  {
+    "id": "1a01c7254b2c",
+    "title": "Focal Force",
+    "width": 3,
+    "height": 3,
+    "difficulty": "medium",
+    "steps": 5
+  },
+  {
+    "id": "5dc45ea51eeb",
+    "title": "Axial Circuit",
+    "width": 15,
+    "height": 15,
+    "difficulty": "medium",
+    "steps": 126
+  },
+  {
+    "id": "a90bb92567a0",
+    "title": "Static Mass",
+    "width": 3,
+    "height": 3,
+    "difficulty": "medium",
+    "steps": 4
+  },
+  {
+    "id": "a402dd825c97",
+    "title": "Spectral Vertex",
+    "width": 5,
+    "height": 5,
+    "difficulty": "medium",
+    "steps": 12
+  },
+  {
+    "id": "40f2d868ea43",
+    "title": "Axial Horizon",
+    "width": 3,
+    "height": 3,
+    "difficulty": "medium",
+    "steps": 5
+  },
+  {
+    "id": "247cf52e863b",
+    "title": "Vortex Array",
+    "width": 5,
+    "height": 5,
+    "difficulty": "medium",
+    "steps": 17
+  },
+  {
+    "id": "f3546a574f50",
+    "title": "Scalar Horizon",
+    "width": 15,
+    "height": 15,
+    "difficulty": "medium",
+    "steps": 155
+  }
+]
